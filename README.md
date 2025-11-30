@@ -91,13 +91,28 @@ python spam_detector.py
 
 ## 🎨 Visualizations
 
-The project generates:
-- Class distribution charts
-- Message statistics box plots
-- Word clouds (spam vs ham)
-- Model comparison bar chart
-- Confusion matrix heatmap
-- ROC curves for all models
+## 📸 Visualizations
+
+### Model Performance Comparison
+![Model Comparison](visualizations/model_comparison.png)
+
+### Word Cloud Analysis
+![Word Clouds](visualizations/word_clouds.png)
+
+### Confusion Matrix
+![Confusion Matrix](visualizations/confusion_matrix.png)
+
+### ROC Curves
+![ROC Curves](visualizations/roc_curves.png)
+
+### Class Distribution
+![Class Distribution](visualizations/class_distribution.png)
+
+### Message Statistics
+![Message Stats](visualizations/message_statistics.png)
+```
+
+
 
 ## 🔮 Sample Predictions
 ```python
