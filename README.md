@@ -36,7 +36,7 @@ An intelligent spam detection system that classifies SMS/email messages with **9
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/YOUR-USERNAME/spam-detection-ml-project.git
+git clone https://github.com/HarshithanagashreeR/spam-detection-ml-project.git
 cd spam-detection-ml-project
 
 # Install dependencies
@@ -51,7 +51,7 @@ python spam_detector.py
 
 ### Google Colab
 ```python
-!git clone https://github.com/YOUR-USERNAME/spam-detection-ml-project.git
+!git clone https://colab.research.google.com/drive/1mo4wbDGyh9Ezl9nsKrJ4DUzKZ44uX7fP?usp=sharing
 %cd spam-detection-ml-project
 !pip install -r requirements.txt
 !wget -O spam.csv https://raw.githubusercontent.com/justmarkham/pycon-2016-tutorial/master/data/sms.tsv
@@ -93,26 +93,12 @@ python spam_detector.py
 
 ## 📸 Visualizations
 
-### Model Performance Comparison
-![Model Comparison](visualizations/model_comparison.png)
-
-### Word Cloud Analysis
-![Word Clouds](visualizations/word_clouds.png)
-
-### Confusion Matrix
-![Confusion Matrix](visualizations/confusion_matrix.png)
-
-### ROC Curves
-![ROC Curves](visualizations/roc_curves.png)
-
-### Class Distribution
-![Class Distribution](visualizations/class_distribution.png)
-
-### Message Statistics
-![Message Stats](visualizations/message_statistics.png)
-```
-
-
+visualizations/WhatsApp Image 2025-11-30 at 23.50.42.jpeg
+visualizations/WhatsApp Image 2025-11-30 at 23.50.43 (1).jpeg
+visualizations/WhatsApp Image 2025-11-30 at 23.50.43 (2).jpeg
+visualizations/WhatsApp Image 2025-11-30 at 23.50.43 (3).jpeg
+visualizations/WhatsApp Image 2025-11-30 at 23.50.43.jpeg
+visualizations/WhatsApp Image 2025-11-30 at 23.50.44.jpeg
 
 ## 🔮 Sample Predictions
 ```python
