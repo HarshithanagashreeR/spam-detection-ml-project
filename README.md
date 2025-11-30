@@ -94,10 +94,15 @@ python spam_detector.py
 ## 📸 Visualizations
 
 visualizations/WhatsApp Image 2025-11-30 at 23.50.42.jpeg
+
 visualizations/WhatsApp Image 2025-11-30 at 23.50.43 (1).jpeg
+
 visualizations/WhatsApp Image 2025-11-30 at 23.50.43 (2).jpeg
+
 visualizations/WhatsApp Image 2025-11-30 at 23.50.43 (3).jpeg
+
 visualizations/WhatsApp Image 2025-11-30 at 23.50.43.jpeg
+
 visualizations/WhatsApp Image 2025-11-30 at 23.50.44.jpeg
 
 ## 🔮 Sample Predictions
